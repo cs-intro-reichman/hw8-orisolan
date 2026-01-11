@@ -35,7 +35,7 @@ public class Network {
             return users[i];
         }
         }
-        //// Replace the following statement with your code
+        //// Replace the following statement with your code.
         return null;
     }
 
